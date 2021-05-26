@@ -1,8 +1,3 @@
-Dinoparks Application
-
-Have Nodejs installed to run this application.
-Codebase was developed in Visual Studio Code.
-
 ### `npm install`
 
 run npm install to install node_modules.
